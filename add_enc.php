@@ -444,7 +444,6 @@ input {
         <li>
           <a href="create_grp.php"><span class="fas fa-users"></span>Former les groupes<span></span></a>
         </li>
- <!-- 
     <li>
           <div class="idk" id="normal" >
           <a href="#" onclick="sub()">

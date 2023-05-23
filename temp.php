@@ -30,7 +30,7 @@
   <title>Recap</title>
  </head>
  <style>
-/*body {
+body {
     margin: 0;
     padding: 0;
     height: 100%;
@@ -110,7 +110,7 @@ input {
     border-radius: 10px;
     margin-right: 15px;
 }
-/*form {
+form {
     position: absolute;
     width: 700px;
     height: 20%;
@@ -123,7 +123,7 @@ input {
 #de {
     margin-left: 30%;
 }
-/*.form{
+.form{
     margin-top: 50px;
 }*/
 

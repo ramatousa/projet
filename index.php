@@ -129,11 +129,6 @@ nav{
     <section class="etudiant">
       <a href="login_etu.php"><h1>Etudiant</h1></a>
     </section>
-  <!-- 
-        <section class="jury">
-      <a href="login_jury.php"><h1>Jury</h1></a>
-    </section>
- -->
         <section class="administrateur">
       <a href="login_adm.php"><h1>Administrateur</h1></a>
     </section>

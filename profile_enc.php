@@ -316,58 +316,8 @@ input {
 }
 
     </style>
-<!----<h1>Welcome to your profile admin, <?php //echo $_SESSION[//'nom_adm'];  ?>
-    </h1>
-            <div class="wrapper">
-        <nav>
-        <a href="profile_enc.php"><span class="icon1"><i class="fas fa-arrow-left"></i></span></a>
-            <div class="logo">
-                <img src="img/1211...png">
-            </div>
- 
-        </nav>
 
-    </div>
 
-        <div class="navigation">
-
-            <ul>
-
-                <li id="info">
-                    <a href="info_pfe_enc.php" >
-                        <span class="icon"><i class="fas fa-info-circle"></i></span> &nbsp; 
-                        <span class="title">info</span>
-                    </a>
-                </li>
-            
-                <li id="prop">
-                    <a href="prop_sjt.php">
-                        <span class="icon"><i class="fas fa-file-powerpoint"></i></span>
-                        <span class="title">Proposer les sujets</span>
-                    </a>
-                </li>
-                <li id="prop">
-                    <a href="consult_doc.php">
-                        <span class="icon"><i class="fas fa-file-alt"></i></span>
-                        <span class="title">Consulter les documents des etudiants</span>
-                    </a>
-                </li>
-                <li>
-                    <a href="recap.php">
-                    <span class="icon"><i class="fas fa-border-all"></i></span>
-                    <span class="title">Recap des sujets</span>             
-                </li>
-                <li>
-                    <a  href="logout.php">
-                    <span class="icon"><i class="fas fa-sign-out-alt"></i></span>
-                    <span class="title">Se deconnecter</span>               
-                </li>
-                
-
-            </ul>
-        </div>
-
------>
 <div class="sidebar">
     <div class="sidebar-brand">
       <h2><span class="fa fa-user-o"></span>Profil d'encadrant</h2>
@@ -377,8 +327,7 @@ input {
       <ul>
         <li>
           <a href="profile_enc.php" class="active"><span class="fa fa-home"></span><span>Profil</span></a>
-        </li>
-         <!-- 
+    
         <li>
           <a href="info_pfe_enc.php"><span class="fas fa-info-circle"></span><span>info</span></a>
         </li>
@@ -391,7 +340,7 @@ input {
         <li>
           <a href="recap.php"><span class="fas fa-border-all"></span>Recap des sujets<span></span></a>
         </li>
-        -->
+      
         <li>
           <a href="logout.php"><span class="fas fa-sign-out-alt"></span>Se deconnecter<span></span></a>
         </li>

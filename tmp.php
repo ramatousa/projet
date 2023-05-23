@@ -229,7 +229,7 @@ background-color: #81c4eb;
 }
 
 </style>
-    <!--<style type="text/css">
+    <style type="text/css">
         body {
     margin: 0;
     padding: 0;

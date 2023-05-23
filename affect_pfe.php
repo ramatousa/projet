@@ -400,7 +400,7 @@ background-color:#637E80 ;
             <span class="title">Recapitulatif des pfe's</span>
           </a>
         </li>
--->
+
         <li>
           <a href="index.php"><span class="fas fa-sign-out-alt"></span><span>Se Deconnecter</span></a>
         </li>
@@ -669,7 +669,7 @@ echo "</tr>";
             
         
         
-            }*/
+            }
         
         
 ?>

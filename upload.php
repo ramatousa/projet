@@ -178,7 +178,7 @@ h1 {
 }
 
   </style>
-       <!-- <style type="text/css">
+     <style type="text/css">
 
 * {
   padding:0;
@@ -267,7 +267,7 @@ td {
     <li>
       <a href="info_pfe.php">
             <span class="icon"><i class="fas fa-user-plus"></i></span>
-            <span class="title">Consulter les informations du PFE</span>
+            <span class="title">Consulter les informations</span>
           </a>
         </li>
         <li>
@@ -282,12 +282,7 @@ td {
             <span class="title">Mes documents</span>
           </a>
         </li>
-                <li>
-                    <a href="certificat.php">
-                        <span class="icon"><i class="fa fa-certificate" aria-hidden="true"></i></i></span>
-                        <span class="title">Attestation du PFE</span>
-                    </a>
-                </li>
+            
         <li>
           <a href="logout.php">
             <span class="icon"><i class="fas fa-sign-out-alt"></i></span>

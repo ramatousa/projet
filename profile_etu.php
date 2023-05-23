@@ -306,7 +306,7 @@ input {
 }
 </style>
 
-<!--    <style type="text/css">
+  <style type="text/css">
 
         * {
             margin: 0;
@@ -457,7 +457,7 @@ input {
         </div>
 
 </body>
-</html>-->
+</html>
 <div class="sidebar">
     <div class="sidebar-brand">
       <h2><span class="fa fa-user-o"></span>Profil d'étudiant</h2>
@@ -468,11 +468,11 @@ input {
         <li>
           <a href="profile_etu.php" class="active"><span class="fa fa-home"></span><span>Profil</span></a>
         </li>
-         <!-- 
+        
         <li>
           <a href="info_pfe.php">
                         <span class="icon"><i class="fas fa-user-plus"></i></span>
-                        <span class="title">Consulter les informations du PFE</span>
+                        <span class="title">Consulter les informations </span>
                     </a>
                 </li>
                 <li>
@@ -488,13 +488,7 @@ input {
                         <span class="title">Mes documents</span>
                     </a>
                 </li>
-                <li>
-                    <a href="certificat.php">
-                        <span class="icon"><i class="fa fa-certificate" aria-hidden="true"></i></i></span>
-                        <span class="title">Attestation du PFE</span>
-                    </a>
-                </li>
-                -->
+               
                 <li>
                     <a href="logout.php">
                         <span class="icon"><i class="fas fa-sign-out-alt"></i></span>

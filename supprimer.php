@@ -27,13 +27,13 @@ if(isset($_POST['supprimer'])){
 
                         		
 				
-					/*	$sql1 = "SELECT sujet FROM sujet ";
+						$sql1 = "SELECT sujet FROM sujet ";
 						$result1 = $conn->query($sql1);*/
 
 						echo $suj;
 						
 
-			/*			while ($row2 = $result1->fetch_assoc()) {
+					while ($row2 = $result1->fetch_assoc()) {
 			if ($inc>1)  {	
 			
 				header('location:profile_adm.php');
@@ -110,7 +110,7 @@ echo $row8["sujet"];
 
 }
 
-/*if(isset($_POST[$row1["titre"]])){
+if(isset($_POST[$row1["titre"]])){
 
 $selected = $_POST[$row1["titre"]];
 	

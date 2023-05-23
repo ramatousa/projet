@@ -115,18 +115,18 @@ nav{
 
 
     
-}
+
   </style>
     <script src="./app.js"></script>
 
   <div class="container">
 
 
-  --
+  
         <section class="jury">
       <a href="add_jury.php"><h1>Jury</h1></a>
     </section>
--->
+
         <section class="etudiant">
       <a href="add_etu.php"><h1>Etudiant</h1></a>
     </section>

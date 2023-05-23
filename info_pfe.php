@@ -361,7 +361,7 @@ h1 {
         <li>
           <a href="info_pfe.php" class="active">
                         <span class="icon"><i class="fas fa-user-plus"></i></span>
-                        <span class="title">Consulter les informations du PFE</span>
+                        <span class="title">Consulter les informations </span>
                     </a>
                 </li>
                 <li>
@@ -374,12 +374,6 @@ h1 {
                     <a href="etudiant_docs.php">
                         <span class="icon"><i class="fas fa-paperclip"></i></span>
                         <span class="title">Mes documents</span>
-                    </a>
-                </li>
-                <li>
-                    <a href="certificat.php">
-                        <span class="icon"><i class="fa fa-certificate" aria-hidden="true"></i></i></span>
-                        <span class="title">Attestation du PFE</span>
                     </a>
                 </li>
                 <li>

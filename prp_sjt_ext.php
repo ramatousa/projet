@@ -303,7 +303,7 @@ input {
   margin-left: 120px;
    font-weight: bold;
 }
-/*input{
+input{
     width: 60%;
     height: 2em;
     background-color: white;
@@ -315,7 +315,7 @@ input {
     outline: none;
     border-radius: 5px;
 
-}*/
+}
 textarea {
   background-color: white;
  
@@ -369,7 +369,7 @@ textarea {
 
 
 
-/*<!--  body {
+<!--  body {
     margin: 0;
     padding: 0;
     justify-content: center;
@@ -476,7 +476,7 @@ label {
     background-color: linear-gradient(#C2CDD1, ,);
 }
 
-/*#logo {
+#logo {
   font-weight: bold;
   width: 70px;
   background-color:#367D8E ;

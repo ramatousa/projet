@@ -22,7 +22,7 @@
   <title>Recap</title>
  </head>
  <style>
-/*body {
+body {
     margin: 0;
     padding: 0;
     height: 100%;

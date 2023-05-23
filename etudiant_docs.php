@@ -223,7 +223,7 @@ body {
 	text-align: center;	
 }
 
- </style>-->
+ </style>
  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
  <script type="text/javascript">
  	$(document).ready(function(){
@@ -256,7 +256,7 @@ body {
 		<li>
  		  <a href="info_pfe.php">
  						<span class="icon"><i class="fas fa-user-plus"></i></span>
- 						<span class="title">Consulter les informations du PFE</span>
+ 						<span class="title">Consulter les informations </span>
  					</a>
  				</li>
  				<li>
@@ -271,12 +271,6 @@ body {
  						<span class="title">Mes documents</span>
  					</a>
  				</li>
-                <li>
-                    <a href="certificat.php">
-                        <span class="icon"><i class="fa fa-certificate" aria-hidden="true"></i></i></span>
-                        <span class="title">Attestation du PFE</span>
-                    </a>
-                </li>
  				<li>
  					<a href="logout.php">
  						<span class="icon"><i class="fas fa-sign-out-alt"></i></span>
