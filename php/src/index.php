@@ -53,7 +53,7 @@
     }
 
     .etudiant {
-      background: url('img/ELKADDIRI.jpg');
+      background: url('img/J_test.jfif');
       background-position: center;
       background-size: cover;
       background-blend-mode: multiply;
