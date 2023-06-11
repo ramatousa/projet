@@ -48,7 +48,7 @@ section h1 {
 }
 
 .etudiant{
-  background:url('img/ELKADDIRI.jpg') #C3D0D5;
+  background:url('img/etu.jpg') #C3D0D5;
   background-position: center;
   background-size: cover;
   background-blend-mode: multiply;
