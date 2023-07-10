@@ -61,7 +61,7 @@
     }
 
     .encadrant {
-      background: url('img/test_modification.png');
+      background: url('img/stad1.png');
       background-position: left;
       background-size: cover;
       background-blend-mode: multiply;
