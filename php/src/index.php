@@ -53,7 +53,7 @@
     }
 
     .etudiant {
-      background: url('img/modif_etu.png');
+      background: url('img/etu.png');
       background-position: center;
       background-size: cover;
       background-blend-mode: multiply;
